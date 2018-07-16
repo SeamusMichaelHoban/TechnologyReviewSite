@@ -18,16 +18,13 @@ c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\Microsoft.Win32.Primitives.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.AppContext.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Collections.Immutable.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Console.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Diagnostics.Process.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Diagnostics.StackTrace.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.Compression.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.FileSystem.dll
-c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.Pipes.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Reflection.Metadata.dll
@@ -39,7 +36,6 @@ c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Security.Principal.Windows.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Text.Encoding.CodePages.dll
-c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Threading.Thread.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.ValueTuple.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Xml.ReaderWriter.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.Xml.XmlDocument.dll
@@ -95,3 +91,5 @@ c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\EntityFramework.SqlServer.dll
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\EntityFramework.xml
 c:\users\wecancodeit\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WeCanCodeIT\source\repos\TechnologyReviewSite\TechnologyReviewSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
