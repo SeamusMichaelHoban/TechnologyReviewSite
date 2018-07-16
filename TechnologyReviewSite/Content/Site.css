@@ -51,7 +51,11 @@ textarea {
 .button {
     box-shadow: 10px 10px gray;
 }
-/*added background-color to review index page*/ 
+/*added background-color to review details page*/ 
 #reviewDetails {
+    background-color: tan;
+}
+/*added background-color to category index page*/ 
+#categoryIndex {
     background-color: tan;
 }
