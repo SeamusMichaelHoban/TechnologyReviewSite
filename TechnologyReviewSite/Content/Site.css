@@ -39,10 +39,10 @@ textarea {
     justify-content:center;
 }
 /*made cards smaller*/
-#card{
+/*#card{
     width: 600px;
     height: 300px;
-}
+}*/
 /*added background-color to review index page*/ 
 #reviewIndex {
     background-color: tan;
